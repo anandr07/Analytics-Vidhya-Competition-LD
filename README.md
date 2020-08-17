@@ -1,2 +1,2 @@
 # Bank-Loan
-Analytics Vidhya
+Analytics Vidhya Competition
